@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLib</string>
+    <string name="name_book">name book</string>
+    <string name="authors">authors</string>
+    <string name="pages">pages</string>
+    <string name="is_read">is read</string>
+    <string name="enter_the_book">Enter the book</string>
+    <string name="enter_the_author">Enter the author</string>
+    <string name="enter_pages">Enter pages</string>
+</resources>
